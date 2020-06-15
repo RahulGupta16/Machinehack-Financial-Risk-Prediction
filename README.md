@@ -21,6 +21,6 @@ The leaderboard is evaluated using sklearn.metrics.log_loss for the participantâ
 ![finance](https://user-images.githubusercontent.com/56091634/84696395-101dbd00-af6a-11ea-8e33-cb25fb9e9170.png)
 
 
-## Online score : 0.33671
+## Online score : 0.32473
 
 ## Local score : 0.2298203881713662
